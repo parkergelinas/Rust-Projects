@@ -29,7 +29,7 @@ fn process_instruction(
 ) -> ProgramResult {
     let input_data = MyData::try_from_slice(input)?;
 
-    // Handle input_data logic here...
+    // input_data logic here
 
     Ok(())
 }
