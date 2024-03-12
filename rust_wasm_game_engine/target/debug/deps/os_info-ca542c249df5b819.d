@@ -1,0 +1,11 @@
+C:\Users\parke\Downloads\Rust\rust_wasm_game_engine\target\debug\deps\libos_info-ca542c249df5b819.rmeta: C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\lib.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\windows\mod.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\windows\winapi.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\bitness.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\info.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\os_type.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\version.rs
+
+C:\Users\parke\Downloads\Rust\rust_wasm_game_engine\target\debug\deps\os_info-ca542c249df5b819.d: C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\lib.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\windows\mod.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\windows\winapi.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\bitness.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\info.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\os_type.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\version.rs
+
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\lib.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\windows\mod.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\windows\winapi.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\bitness.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\info.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\os_type.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\os_info-3.7.0\src\version.rs:

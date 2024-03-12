@@ -1,0 +1,9 @@
+C:\Users\parke\Downloads\Rust\rust_wasm_game_engine\target\debug\deps\libcargo_metadata-a9bc4e941d281ec3.rmeta: C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\lib.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\dependency.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\diagnostic.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\errors.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\messages.rs
+
+C:\Users\parke\Downloads\Rust\rust_wasm_game_engine\target\debug\deps\cargo_metadata-a9bc4e941d281ec3.d: C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\lib.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\dependency.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\diagnostic.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\errors.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\messages.rs
+
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\lib.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\dependency.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\diagnostic.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\errors.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\messages.rs:

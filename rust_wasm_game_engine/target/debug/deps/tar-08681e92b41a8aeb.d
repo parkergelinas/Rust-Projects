@@ -1,0 +1,12 @@
+C:\Users\parke\Downloads\Rust\rust_wasm_game_engine\target\debug\deps\libtar-08681e92b41a8aeb.rmeta: C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\lib.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\archive.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\builder.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\entry.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\entry_type.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\error.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\header.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\pax.rs
+
+C:\Users\parke\Downloads\Rust\rust_wasm_game_engine\target\debug\deps\tar-08681e92b41a8aeb.d: C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\lib.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\archive.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\builder.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\entry.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\entry_type.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\error.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\header.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\pax.rs
+
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\lib.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\archive.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\builder.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\entry.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\entry_type.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\error.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\header.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tar-0.4.40\src\pax.rs:

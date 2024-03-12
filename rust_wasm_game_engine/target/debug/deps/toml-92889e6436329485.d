@@ -1,0 +1,13 @@
+C:\Users\parke\Downloads\Rust\rust_wasm_game_engine\target\debug\deps\libtoml-92889e6436329485.rmeta: C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\lib.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\map.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\value.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\de.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\ser.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\macros.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\edit.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\fmt.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\table.rs
+
+C:\Users\parke\Downloads\Rust\rust_wasm_game_engine\target\debug\deps\toml-92889e6436329485.d: C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\lib.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\map.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\value.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\de.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\ser.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\macros.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\edit.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\fmt.rs C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\table.rs
+
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\lib.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\map.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\value.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\de.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\ser.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\macros.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\edit.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\fmt.rs:
+C:\Users\parke\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.11\src\table.rs:

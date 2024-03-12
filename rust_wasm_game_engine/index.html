@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Rust WASM Game Engine</title>
+    <script type="module">
+      import init, { greet } from "./pkg/rust_wasm_game_engine.js";
+      async function run() {
+        await init();
+        greet("World");
+      }
+      run();
+    </script>
+  </head>
+  <body></body>
+</html>
