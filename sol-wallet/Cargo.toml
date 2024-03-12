@@ -1,0 +1,9 @@
+[package]
+name = "sol-wallet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-client = "1.7.11" # Use the latest version suitable for your project
+solana-sdk = "1.7.11"
+
