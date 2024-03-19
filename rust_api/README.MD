@@ -28,7 +28,7 @@ This project is a Rust backend system developed with Actix-Web. It demonstrates 
 2. Navigate into the project directory.
 
    ```bash
-   cd rust-actix-web-api
+   cd rust_api
    ```
 
 3. Create a `.env` file in the root of your project directory and add your database connection string:
@@ -87,9 +87,6 @@ This project is a Rust backend system developed with Actix-Web. It demonstrates 
 - **Method:** DELETE
 - **Description:** Deletes the user with the specified ID.
 
-## Running the Tests
-
-Explain how to run the automated tests for this system, if applicable.
 
 ## License
 
