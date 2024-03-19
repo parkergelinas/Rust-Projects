@@ -87,9 +87,6 @@ This project is a Rust backend system developed with Actix-Web. It demonstrates 
 - **Method:** DELETE
 - **Description:** Deletes the user with the specified ID.
 
-## Running the Tests
-
-Explain how to run the automated tests for this system, if applicable.
 
 ## License
 
