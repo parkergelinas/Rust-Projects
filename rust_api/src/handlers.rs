@@ -1,5 +1,3 @@
-// src/handlers.rs
-
 use actix_web::{web, HttpResponse};
 use std::sync::Mutex;
 use uuid::Uuid;
@@ -7,7 +5,7 @@ use crate::models::{AppState, User};
 
 // Create a new user
 pub async fn create_user(item: web::Json<User>, data: web::Data<AppState>) -> HttpResponse {
-    let mut users = data.users.lock().unwrap(); // Lock the mutex here
+    let mut users = data.users.lock().unwrap();
     let user = User {
         id: Uuid::new_v4(),
         username: item.username.clone(),
@@ -19,7 +17,7 @@ pub async fn create_user(item: web::Json<User>, data: web::Data<AppState>) -> Ht
 
 // Retrieve a user by ID
 pub async fn get_user(id: web::Path<Uuid>, data: web::Data<AppState>) -> HttpResponse {
-    let users = data.users.lock().unwrap(); // Lock the mutex here
+    let users = data.users.lock().unwrap();
     let user = users.iter().find(|user| user.id == *id);
     match user {
         Some(user) => HttpResponse::Ok().json(user),
@@ -29,7 +27,7 @@ pub async fn get_user(id: web::Path<Uuid>, data: web::Data<AppState>) -> HttpRes
 
 // Update a user by ID
 pub async fn update_user(id: web::Path<Uuid>, item: web::Json<User>, data: web::Data<AppState>) -> HttpResponse {
-    let mut users = data.users.lock().unwrap(); // Lock the mutex here
+    let mut users = data.users.lock().unwrap();
     let idx = users.iter().position(|user| user.id == *id);
     match idx {
         Some(idx) => {
@@ -44,7 +42,7 @@ pub async fn update_user(id: web::Path<Uuid>, item: web::Json<User>, data: web::
 
 // Delete a user by ID
 pub async fn delete_user(id: web::Path<Uuid>, data: web::Data<AppState>) -> HttpResponse {
-    let mut users = data.users.lock().unwrap(); // Lock the mutex here
+    let mut users = data.users.lock().unwrap();
     let idx = users.iter().position(|user| user.id == *id);
     match idx {
         Some(idx) => {

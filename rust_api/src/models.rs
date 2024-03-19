@@ -1,5 +1,3 @@
-// src/models.rs
-
 use serde::{Deserialize, Serialize};
 use std::sync::Mutex;
 use uuid::Uuid;

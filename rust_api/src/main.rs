@@ -1,12 +1,10 @@
-// src/main.rs
-
 mod config;
 mod handlers;
 mod models;
 
 use actix_web::{web, App, HttpServer, middleware};
 use models::AppState;
-use std::sync::Mutex; // Make sure to include this import
+use std::sync::Mutex;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
